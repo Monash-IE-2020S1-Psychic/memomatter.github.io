@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Shared Timeline
+  - title                                 : SHARED TIMELINE
     description                           : Keep images in a shared timeline with your loved ones
     fontawesome_icon_name                 : magic
     
-  - title                                 : Memory Practice
+  - title                                 : MEMORY PRACTICE
     description                           : Play memory-based game and monitor progress
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Planning Outings
-    description                           : Plan an outing with your loved ones and get reminded
     fontawesome_icon_name                 : play-circle
+
+  - title                                 : PLANNING ACTIVITIES
+    description                           : Plan an outing with your loved ones and get reminded
+    fontawesome_icon_name                 : mobile
     
   - title                                 : # New Feature Title
     description                           : # New Feature Description
